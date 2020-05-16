@@ -1,3 +1,3 @@
-##Deep Learning 
+## Deep Learning 
 
-###Short Story Assignment
+### Short Story Assignment
